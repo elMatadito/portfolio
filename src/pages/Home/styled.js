@@ -41,7 +41,7 @@ export const Main = styled.main`
 `
 
 export const Footer = styled.footer`
-  position: absolute;
+  /* position: absolute; */
   bottom: 0;
   background: #020C1B;
   padding: 7px 20px;

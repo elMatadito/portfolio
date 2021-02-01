@@ -4,5 +4,110 @@
   "overview": "I’m a passionate self-taught Full Stack Developer with more than 5+ years of experience in software development. ",
   "picture": "https://jonathanromero.com.mx/images/jromeroh93.png",
   "location": "Mexico City, Mexico",
-  "skills": []
+  "skills": [
+    {
+      "is_primary": true,
+      "name": "react"
+    },
+    {
+      "is_primary": true,
+      "name": "nodejs"
+    },
+    {
+      "is_primary": true,
+      "name": "postgresql"
+    },
+    {
+      "is_primary": true,
+      "name": "git"
+    },
+    {
+      "is_primary": false,
+      "name": "javascript"
+    },
+    {
+      "is_primary": false,
+      "name": "sass"
+    },
+    {
+      "is_primary": false,
+      "name": "less"
+    },
+    {
+      "is_primary": false,
+      "name": "c-sharp"
+    },
+    {
+      "is_primary": false,
+      "name": "asp-dot-net"
+    },
+    {
+      "is_primary": false,
+      "name": "ms-sql-server"
+    },
+    {
+      "is_primary": false,
+      "name": "my-sql"
+    },
+    {
+      "is_primary": false,
+      "name": "graphql"
+    },
+    {
+      "is_primary": false,
+      "name": "phyton"
+    },
+    {
+      "is_primary": false,
+      "name": "wordpress"
+    },
+    {
+      "is_primary": false,
+      "name": "azure"
+    },
+    {
+      "is_primary": false,
+      "name": "scrum"
+    }
+  ],
+  "jobs": [
+    {
+      "company": "GeniusSoft",
+      "position": ".NET Developer",
+      "start_date": "2013-12-12",
+      "end_date": "2016-01-30",
+      "logo": "companies/geniussoft.png"
+    },
+    {
+      "company": "DA Soluciones IT",
+      "position": "Full Stack Developer",
+      "start_date": "2016-02-01",
+      "end_date": "2016-11-30"
+    },
+    {
+      "company": "Estrategia Corporativa NAAT",
+      "position": "Full Stack Developer",
+      "start_date": "2016-12-01",
+      "end_date": "2016-06-30"
+    },
+    {
+      "company": "Atlantia Search",
+      "position": "Full Stack Developer",
+      "start_date": "2017-07-01",
+      "end_date": "2016-06-30"
+    },
+    {
+      "company": "Ketogains",
+      "position": "Full Stack Developer",
+      "start_date": "2019-04-15",
+      "end_date": "2016-06-30"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Xantolo",
+      "type": "Website",
+      "link": "https://xantolo.mx"
+    }
+  ]
 }
