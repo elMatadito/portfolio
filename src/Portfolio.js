@@ -1,5 +1,7 @@
 import React from 'react'
+import { Home } from './pages/Home'
+
 
 export const Portfolio = () => {
-  return (<h1>Welcome to my Portfolio</h1>)
+  return (<Home />)
 }

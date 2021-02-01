@@ -7,4 +7,4 @@ ReactDOM.render(
   <>
     <GlobalStyles />
     <Portfolio />
-  </>, document.getElementById('app'))
+  </>, document.getElementById('my-portfolio'))
